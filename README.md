@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ##### 实验结果
 
-![Test1.png](./image/Test1.png)
+![Text1.png](./image/Text1.png)
 
 ### 2、创建自定义布局的AlertDialog
 ##### 思路
@@ -78,7 +78,7 @@ class AlertDialog extends Dialog {
 ```
 ##### 实验结果
 
-![Test2.png](./image/Test2.png)
+![Text2.png](./image/Text2.png)
 
 ### 3、使用XML定义菜单
 ##### 思路
@@ -123,10 +123,10 @@ class AlertDialog extends Dialog {
 ```
 ##### 实验结果
 
-![Test3.1.png](./image/Test3.1.png)
-![Test3.2.png](./image/Test3.2.png)
-![Test3.3.png](./image/Test3.3.png)
-![Test3.4.png](./image/Test3.4.png)
+![Text3.1.png](./image/Text3.1.png)
+![Text3.2.png](./image/Text3.2.png)
+![Text3.3.png](./image/Text3.3.png)
+![Text3.4.png](./image/Text3.4.png)
 
 ### 3、创建上下文操作模式(ActionMode)的上下文菜单
 ##### 思路
@@ -189,8 +189,8 @@ public void click_select(View V)
 ```
 ##### 实验结果
 
-![Test4.png](./image/Test4.png)
-![Test4.1.png](./image/Test4.1.png)
+![Text4.png](./image/Text4.png)
+![Text4.1.png](./image/Text4.1.png)
 
 
 
